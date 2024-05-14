@@ -21,6 +21,7 @@ CSS,
 JavaScript,
 PHP And
 SQL DataBase
+
 Contributing:
 We welcome contributions from the community! If you'd like to contribute to the ElectronicsVotingSystem project, please follow these guidelines:
 
@@ -28,6 +29,7 @@ Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and ensure they are properly tested.
 Submit a pull request with a clear description of your changes.
+
 License:
 This project is licensed under the MIT License.
 
