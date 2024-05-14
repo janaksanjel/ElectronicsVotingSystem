@@ -43,6 +43,5 @@ This project is actively maintained and under ongoing development. New features 
 
 ![Screenshot 2024-05-14 134719](https://github.com/janaksanjel/ElectronicsVotingSystem/assets/98094845/d5623112-8cc5-44b8-a45d-209adace7930)
 
-![Screenshot 2024-05-14 134821](https://github.com/janaksanjel/ElectronicsVotingSystem/assets/98094845/ab2c4174-f0e7-4ce0-95ed-b8ef762ec041)
 
   Thank you for taking the time to visit! If you have any questions, feedback, or just want to chat about technology, feel free to reach out. Let's stay connected and continue exploring the exciting world of software development together. Wishing you all the best on your own journey in the realm of technology!
