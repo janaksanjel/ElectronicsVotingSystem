@@ -16,11 +16,11 @@ Cast their votes securely.
 View election results.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-PHP
-SQL
+HTML,
+CSS,
+JavaScript,
+PHP And
+SQL DataBase
 Contributing:
 We welcome contributions from the community! If you'd like to contribute to the ElectronicsVotingSystem project, please follow these guidelines:
 
@@ -39,3 +39,10 @@ Special thanks to  for their valuable contributions and feedback.
 
 Project Status:
 This project is actively maintained and under ongoing development. New features and improvements are regularly added.
+
+![Screenshot 2024-05-14 134906](https://github.com/janaksanjel/ElectronicsVotingSystem/assets/98094845/ff8d6b17-24f1-42c0-8f5b-1911c5f3089d)
+
+![Screenshot 2024-05-14 134719](https://github.com/janaksanjel/ElectronicsVotingSystem/assets/98094845/d5623112-8cc5-44b8-a45d-209adace7930)
+
+![Screenshot 2024-05-14 134821](https://github.com/janaksanjel/ElectronicsVotingSystem/assets/98094845/ab2c4174-f0e7-4ce0-95ed-b8ef762ec041)
+
